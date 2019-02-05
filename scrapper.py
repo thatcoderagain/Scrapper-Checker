@@ -18,6 +18,7 @@ https://list.proxylistplus.com/Socks-List-1
 def live_socks(max_page):
     url = 'http://www.live-socks.net/'
     page = 1
+    a = 10000
     proxies = set()
     while page <= max_page:
         try:
