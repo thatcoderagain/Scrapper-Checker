@@ -1,7 +1,6 @@
 import sys
-
 import time
-import request
+import requests
 from bs4 import BeautifulSoup
 
 '''
