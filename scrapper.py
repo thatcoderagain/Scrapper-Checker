@@ -16,7 +16,7 @@ https://list.proxylistplus.com/Socks-List-1
 '''
 
 def live_socks(max_page):
-    url = 'http://www.live-socks.net/'
+    url = 'http://wabdsaad ww.live-socks.net/'
     page = 1
     a = 123
     proxies = set()
